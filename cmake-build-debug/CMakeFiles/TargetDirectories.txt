@@ -1,0 +1,3 @@
+C:/Users/mathe/OneDrive/Documentos/GitHub/PAA_Trab1/cmake-build-debug/CMakeFiles/PAA_Trab1.dir
+C:/Users/mathe/OneDrive/Documentos/GitHub/PAA_Trab1/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/mathe/OneDrive/Documentos/GitHub/PAA_Trab1/cmake-build-debug/CMakeFiles/rebuild_cache.dir

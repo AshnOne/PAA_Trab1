@@ -1,0 +1,17 @@
+# ninja log v5
+1	212	7301386956612502	CMakeFiles/PAA_Trab1.dir/Implementacao/Source/load.c.obj	f49e224d6d4735f5
+9	240	7301386956832481	CMakeFiles/PAA_Trab1.dir/Implementacao/Source/KnapSack.c.obj	f3ea62467aab0c43
+17	250	7301386956922477	CMakeFiles/PAA_Trab1.dir/Implementacao/Source/main.c.obj	f1074bfb02b49733
+41	261	7301386957112562	CMakeFiles/PAA_Trab1.dir/Implementacao/Source/Menu.c.obj	3ea1e66c8d76571c
+27	276	7301386957297710	CMakeFiles/PAA_Trab1.dir/Implementacao/Source/MatrizNormal.c.obj	cace3285c933f9eb
+50	285	7301386957357711	CMakeFiles/PAA_Trab1.dir/Implementacao/Source/TesteMatrizStrassen.c.obj	e0f6960982b492ee
+215	344	7301386957987702	CMakeFiles/PAA_Trab1.dir/Implementacao/Source/TesteMatrizNormal.c.obj	b08142a3e6a0a63
+241	348	7301386958037797	CMakeFiles/PAA_Trab1.dir/Implementacao/Source/TesteKnapSack.c.obj	a959b6babd8e3f40
+4	227	7301388422522914	CMakeFiles/PAA_Trab1.dir/Implementacao/Source/TesteMatrizNormal.c.obj	b08142a3e6a0a63
+228	427	7301388424480119	PAA_Trab1.exe	6897a6d4a2a41157
+3	99	7301388727695679	CMakeFiles/PAA_Trab1.dir/Implementacao/Source/TesteMatrizNormal.c.obj	b08142a3e6a0a63
+101	260	7301388729250780	PAA_Trab1.exe	6897a6d4a2a41157
+5	95	7301388926467979	CMakeFiles/PAA_Trab1.dir/Implementacao/Source/TesteMatrizNormal.c.obj	b08142a3e6a0a63
+96	240	7301388927867522	PAA_Trab1.exe	6897a6d4a2a41157
+3	99	7301389203935601	CMakeFiles/PAA_Trab1.dir/Implementacao/Source/TesteMatrizNormal.c.obj	b08142a3e6a0a63
+100	267	7301389205558295	PAA_Trab1.exe	6897a6d4a2a41157
